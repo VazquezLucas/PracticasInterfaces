@@ -1,0 +1,15 @@
+C:\Users\vazqu\source\repos\PracticasInterfaces\bin\Debug\net6.0\PracticasInterfaces.exe
+C:\Users\vazqu\source\repos\PracticasInterfaces\bin\Debug\net6.0\PracticasInterfaces.deps.json
+C:\Users\vazqu\source\repos\PracticasInterfaces\bin\Debug\net6.0\PracticasInterfaces.runtimeconfig.json
+C:\Users\vazqu\source\repos\PracticasInterfaces\bin\Debug\net6.0\PracticasInterfaces.dll
+C:\Users\vazqu\source\repos\PracticasInterfaces\bin\Debug\net6.0\PracticasInterfaces.pdb
+C:\Users\vazqu\source\repos\PracticasInterfaces\obj\Debug\net6.0\PracticasInterfaces.csproj.AssemblyReference.cache
+C:\Users\vazqu\source\repos\PracticasInterfaces\obj\Debug\net6.0\PracticasInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazqu\source\repos\PracticasInterfaces\obj\Debug\net6.0\PracticasInterfaces.AssemblyInfoInputs.cache
+C:\Users\vazqu\source\repos\PracticasInterfaces\obj\Debug\net6.0\PracticasInterfaces.AssemblyInfo.cs
+C:\Users\vazqu\source\repos\PracticasInterfaces\obj\Debug\net6.0\PracticasInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\vazqu\source\repos\PracticasInterfaces\obj\Debug\net6.0\PracticasInterfaces.dll
+C:\Users\vazqu\source\repos\PracticasInterfaces\obj\Debug\net6.0\refint\PracticasInterfaces.dll
+C:\Users\vazqu\source\repos\PracticasInterfaces\obj\Debug\net6.0\PracticasInterfaces.pdb
+C:\Users\vazqu\source\repos\PracticasInterfaces\obj\Debug\net6.0\PracticasInterfaces.genruntimeconfig.cache
+C:\Users\vazqu\source\repos\PracticasInterfaces\obj\Debug\net6.0\ref\PracticasInterfaces.dll
